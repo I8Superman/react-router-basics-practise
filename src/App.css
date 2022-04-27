@@ -1,0 +1,23 @@
+nav {
+  border-bottom: "solid 1px";
+  padding-bottom: "1rem";
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  padding: 1rem;
+}
+
+.invoiceContainer {
+  border: 1px black solid;
+  width: 50%;
+}
+
+.active {
+  color: red;
+}
+
+input {
+  width: 50%;
+}
